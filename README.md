@@ -31,7 +31,7 @@ Skills Demonstrated
 - Data Interpretation
 - Business Understanding
 
-Conclusion
+Conclusion:
 This project helped me practice working with real-world data, creating visualizations, identifying churn patterns, and communicating insights using Python.
 
 
