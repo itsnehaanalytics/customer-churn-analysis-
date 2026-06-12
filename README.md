@@ -16,13 +16,6 @@ Tools Used
 - Seaborn
 - Jupyter Notebook
 
-Key Findings
-
-- Customers with lower tenure were more likely to churn.
-- Month-to-month contracts showed higher churn rates.
-- Higher monthly charges were associated with higher churn.
-- Long-term customers were generally more likely to stay.
-
 Skills Demonstrated
 
 - Data Cleaning
